@@ -1,4 +1,3 @@
-# Method Overriding
 class A:
     def first(self):
         print("Inside method first")
